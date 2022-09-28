@@ -9,7 +9,7 @@ session_start();
  */
 define('PORT'     , '8889');
 define('BASEPATH' , '');
-define('URL'      , 'http://127.0.0.1:'.PORT.BASEPATH);
+define('URL'      , 'http://localhost:'.PORT.BASEPATH);
 
 /**
  * Constantes para los paths de archivos
